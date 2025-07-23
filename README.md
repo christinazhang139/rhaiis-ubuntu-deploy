@@ -1,4 +1,4 @@
-# Red Hat AI Inference Server Deployment Guide on Ubuntu + RTX 4090
+# Red Hat AI Inference Server Deployment Guide on Ubuntu
 
 Launch a local AI inference server with GPU-accelerated model services  
 (Takes approximately 15 minutes)
